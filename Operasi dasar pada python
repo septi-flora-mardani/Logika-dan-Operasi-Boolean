@@ -1,0 +1,11 @@
+#Memberi nilai variabel
+a = 2 
+b = 3
+
+#Membuat output dari operasi python
+print(a+b)  #Untuk operasi penjumlahan
+print(a-b)  #Untuk operasi pengurangan
+print(a*b)  #Untuk operasi perkalian
+print(a/b)  #Untuk operasi pembagian
+print(a//b) #Untuk operasi pembagian (hasil hanya bilangan bulat)
+print(a%b)  #Untuk mencarisisa dari operasi pembagian
